@@ -31,7 +31,7 @@ setup(
         "optimization",
     ],
     install_requires=[
-        "torch>=1.5.0",
+        "torch>=1.4.0",
         "torchvision",
         "kornia",
         "tqdm",
